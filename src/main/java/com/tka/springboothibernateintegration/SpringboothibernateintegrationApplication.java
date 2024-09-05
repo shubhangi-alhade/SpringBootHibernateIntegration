@@ -14,6 +14,7 @@ public class SpringboothibernateintegrationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringboothibernateintegrationApplication.class, args);
+		System.out.println("Program Running...");
 	}
 
 }
